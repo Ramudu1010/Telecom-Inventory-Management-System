@@ -1,4 +1,4 @@
- 📡 Telecom Inventory Management System
+📡 Telecom Inventory Management System
 
 A full-stack web application designed to manage telecom assets, streamline inventory tracking, and provide secure access to real-time data. Built with Node.js, Express, MySQL, and React, this system supports CRUD operations, token-based authentication, and a dynamic dashboard for telecom operations.
 
