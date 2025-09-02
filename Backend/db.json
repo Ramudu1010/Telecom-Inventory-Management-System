@@ -1,0 +1,138 @@
+{
+  "inventory": [
+    {
+      "id": 1,
+      "name": "Router Model A",
+      "type": "Router",
+      "status": "In Stock",
+      "quantity": 10
+    },
+    {
+      "id": 2,
+      "name": "Switch Model B",
+      "type": "Switch",
+      "status": "In Stock",
+      "quantity": 25
+    },
+    {
+      "id": 3,
+      "name": "Modem Model C",
+      "type": "Modem",
+      "status": "Out of Stock",
+      "quantity": 0
+    },
+    {
+      "id": 4,
+      "name": "Earburds",
+      "type": "Electronic",
+      "status": "Out of Stock",
+      "quantity": 3
+    },
+    {
+      "id": 5,
+      "name": "Smartwatch",
+      "type": "Eletronic",
+      "status": "In Stock",
+      "quantity": 4
+    },
+    {
+      "id": 6,
+      "name": "Mobile",
+      "type": "Electronic",
+      "status": "In Stock",
+      "quantity": 9
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "password",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "user",
+      "password": "password",
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "username": "ramudu",
+      "password": "123456",
+      "role": "user"
+    },
+    {
+      "id": 4,
+      "username": "sitha",
+      "password": "password",
+      "role": "user"
+    },
+    {
+      "id": 5,
+      "username": "ramuduram",
+      "password": "$2b$10$zrAEZJakHqZxbKDPknSow.F1o96wqambOcE1OCAk1wlzB62b7N0I6",
+      "role": "user"
+    },
+    {
+      "id": 6,
+      "username": "sriram",
+      "password": "$2b$10$yrA2PE5LfQmhX0zHEp/JM.bwifbHYBR8ZWkoYFxby3n.6xagMg2OO",
+      "role": "user"
+    },
+    {
+      "id": 7,
+      "username": "shiva",
+      "password": "$2b$10$asUXugunVGeKqU6fipbNcec52pOj7uHcwO6quf2WcLZ4T7sWYoQci",
+      "role": "user"
+    },
+    {
+      "id": 8,
+      "username": "bindu",
+      "password": "$2b$10$Ywcrxzgpy7GQ8.70Sc5eOOnYVOeaygowDUPxeCnEgb6u8/JsJ8W5i",
+      "role": "user"
+    }
+  ],
+  "suppliers": [],
+  "products": [
+    {
+      "id": 1,
+      "name": "3fgd",
+      "description": "we",
+      "price": 345
+    }
+  ],
+  "orderedProducts": [
+    {
+      "orderId": 1,
+      "productName": "Smartwatch",
+      "quantity": 2,
+      "status": "Processing"
+    },
+    {
+      "orderId": 2,
+      "productName": "Router Model A",
+      "quantity": 1,
+      "status": "Processing"
+    },
+    {
+      "orderId": 3,
+      "productName": "Router Model A",
+      "quantity": 1,
+      "status": "Processing"
+    },
+    {
+      "orderId": 4,
+      "productName": "Router Model A",
+      "quantity": 1,
+      "status": "Processing"
+    },
+    {
+      "orderId": 5,
+      "productName": "Mobile",
+      "quantity": 1,
+      "status": "Processing"
+    }
+  ],
+  "pendingProducts": []
+}
